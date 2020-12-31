@@ -1,0 +1,29 @@
+.app{
+  height: 100vh;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tweet{
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.count{
+  display: flex;
+  align-items: center;
+  background-color: green;
+}
+
+.pink{
+  color: purple;
+  size:50 px;
+}
